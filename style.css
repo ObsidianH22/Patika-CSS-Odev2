@@ -1,0 +1,33 @@
+/*image center*/
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*section settings*/
+section{
+    background-color:#eeeeee;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1px;
+}
+p{
+    margin: 0;
+}
+div{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+table{
+    display:inline-flexbox;
+    width: 100%;
+    text-align: center;
+}
+td{
+    background-color: blueviolet;
+    width: 30%;
+}
+
+
